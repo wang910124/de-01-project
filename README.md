@@ -94,3 +94,6 @@
 ---
 
 *本 README 依「台灣 ETF 資料工程與績效風險分析3.pptx」轉寫為 Markdown，保留原簡報的規劃內容；未填寫的部分標記為「待補充」，並不代表相關功能已完成。*
+## 系統架構圖
+
+![ETF 系統架構圖](images/architecture.png)
